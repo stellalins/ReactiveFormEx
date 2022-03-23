@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#end{
+    width: 100%;
+}
+.growEnd{
+    width: 100%;
+    background-color: purple;
+}
